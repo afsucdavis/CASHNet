@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.25.18009.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:03.553%0D%0AWhen%20you%20log-in%20to%20CASHNet%20and%20select%20Departmental%20Deposits,%0D%0A%0D%0A"}')

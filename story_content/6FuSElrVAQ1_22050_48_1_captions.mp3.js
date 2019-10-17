@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.25.18009.0%0D%0A%0D%0A00:00:00.150%20--%3E%2000:00:04.545%0D%0AIf%20the%20amount%20is%20over%20enter%20the%20overage%20amount%20in%20both%20the%20Item%20and%20GL%20amount%20fields.%0D%0A%0D%0A"}')
